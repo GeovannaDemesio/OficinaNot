@@ -7,3 +7,6 @@ def idade(num):
          print("Maior de idade")
         
 print(idade(num))
+
+print("Somos todas Divas!")
+print("Sdds Loop Loop")
